@@ -38,5 +38,6 @@ public class PrimePalindrome
 Enter a number : 103
 103 is not a prime palindrome number
 ****************************************
+Enter a number : 313
 313 is a prime palindrome number
  */
