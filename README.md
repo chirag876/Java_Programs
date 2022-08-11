@@ -1,3 +1,3 @@
 # Java_Programs
 
-**Major Java Programs.**
+**Basic Java Programs.**
